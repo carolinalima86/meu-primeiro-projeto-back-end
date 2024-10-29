@@ -1,3 +1,0 @@
-mongodb+srv://CAROLINACLIMA:<db_password>@cluster0.0ehhk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
-mongodb+srv://CAROLINACLIMA:Carol1809!@cluster0.0ehhk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
